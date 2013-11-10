@@ -3,7 +3,7 @@
 inherit qt4-qmake
 
 NAME="phantomjs"
-VERSION=1.3.0
+VERSION=1.4.1
 RELEASE=1
 CATEGORY="Interpreters"
 SUMMARY="Browserless WebKit JavaScript/CoffeeScript interpreter"
