@@ -14,6 +14,7 @@ site scraping, pages capture, SVG renderer, network monitoring and many other
 use cases."
 HOMEPAGE="http://www.phantomjs.org/"
 SRC_URI="http://phantomjs.googlecode.com/files/${NAME}-${VERSION}-source.tar.gz"
+PATCH_URI="1.4.1-Wimplicit-decls.patch"
 
 src_install() {
 	cd ${B}

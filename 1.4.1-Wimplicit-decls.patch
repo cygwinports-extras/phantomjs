@@ -1,0 +1,10 @@
+--- origsrc/phantomjs-1.4.1/src/gif/gif_hash.c	2011-12-31 23:05:10.000000000 -0600
++++ src/phantomjs-1.4.1/src/gif/gif_hash.c	2013-11-10 04:31:12.738048600 -0600
+@@ -47,6 +47,7 @@
+ #include <fcntl.h>
+ #endif /* HAVE_FCNTL_H */
+ #include <stdio.h>
++#include <stdlib.h>
+ #include <string.h>
+ #include "gif_lib.h"
+ #include "gif_hash.h"
