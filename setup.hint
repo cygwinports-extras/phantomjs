@@ -1,8 +1,0 @@
-category: Interpreters Web
-requires: libgcc1 libQtCore4 libQtGui4 libQtNetwork4 libQtWebKit4 libstdc++6
-sdesc: "Browserless WebKit JavaScript/CoffeeScript interpreter"
-ldesc: "PhantomJS is a headless WebKit with JavaScript API. It has fast 
-and native support for various web standards: DOM handling, CSS 
-selector, JSON, Canvas, and SVG. PhantomJS is an optimal solution for 
-fast headless testing, site scraping, pages capture, SVG renderer, 
-network monitoring and many other use cases."
